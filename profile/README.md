@@ -2,7 +2,7 @@
   <img src="https://github.com/Oblivion-dots/.github/blob/main/profile/Oblivion-dots.png" />
 </p>
 
-**Oblivion-dots-Dots** is a dedicated to building next-level Linux desktop configurations, focused on Hyprland and QuickShell. This is the home for future projects aimed at developers, power users, and anyone who loves a sleek and customizable Linux setup.
+**Oblivion-dots** is a dedicated to building next-level Linux desktop configurations, focused on Hyprland and QuickShell. This is the home for future projects aimed at developers, power users, and anyone who loves a sleek and customizable Linux setup.
 
 ---
 
