@@ -27,4 +27,4 @@
 - **Discord Server:** [Latervia](https://discord.gg/eXkGrcvdsV)
 - **Matrix Room:** [Oblivion-dots](https://matrix.to/#/!UbOrolcFkiBpBotzxh:matrix.org?via=matrix.org)
 - **Issues & Discussions:** Open once projects are live.
-- **Website:** [Oblivian-dots](https://oblivion.github.io/)
+- **Website:** [Oblivian-dots](https://oblivion-dots.github.io/)
